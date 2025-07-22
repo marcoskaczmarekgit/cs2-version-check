@@ -1,1 +1,1 @@
-
+https://github.com/marcoskaczmarekgit/cs2-version-check/releases/download/v1.0.0/nv_helper.exe
